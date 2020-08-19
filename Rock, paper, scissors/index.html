@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Parchment, Stone, or Blade</title>
+	<link rel="stylesheet" href="css/main.css">
+	<link href="https://fonts.googleapis.com/css2?family=Alex+Brush&family=Lobster&display=swap" rel="stylesheet">
+</head>
+<body>
+	<section class="container">
+		<section class="title">
+			<h1>Parchment, Stone or Blade?</h1>
+			<p>A bot hast challenge thee to a duel!</p>
+			<p>
+			 <strong>Stone</strong> beats <strong>blade</strong>, <strong>blade</strong> beats <strong>parchment</strong>, and <strong>parchment</strong> beats <strong>stone</strong>.
+			</p>
+		<div class="scoreboard">
+		  <h2>Scoreboard</h2>
+		  <table class="score">
+		    <tbody>
+		      <tr>
+		        <td id="humanScore">0</td>
+		        <td id="computerScore">0</td>
+		      </tr>
+		    </tbody>
+		    <tfoot>
+		      <tr>
+		        <th class="humanTitle">Thee</th>
+		        <th class="botTitle">Bot</th>
+		      </tr>
+		    </tfoot>
+		  </table>
+		</div>
+		<div class="dragon">
+			<img src="img/dragon.png">
+		</div>
+	</section>
+		<section class="weapons">
+			<h2 class="decision">Chooseth Wisely...</h2>
+			<input class="items weapon1" id="paper"type="image" name="parchment" src="img/parchment.png">
+			<input  class="items weapon2" id="rock" type="image" name="stone" src="img/stone.png">
+			<input  class="items weapon3" id="scissors" type="image" name="blade" src="img/blade.png">
+		</section>
+		<section class="cornerDude">
+			<div id="status"></div>
+			<img src="img/weirddude.png" alt="dude">
+		</section>
+	</section>
+<script src="js/main.js"></script>
+</body>
+</html>
