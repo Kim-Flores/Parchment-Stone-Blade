@@ -1,5 +1,5 @@
 # Parchment-Stone-Blade
-Medieval take on the classic Rock, Paper, Scissors
+Medieval take on the classic Rock Paper Scissors
 
 Live Code: https://kimflores-parchment-stone-blade.netlify.app
 
