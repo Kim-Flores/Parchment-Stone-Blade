@@ -23,3 +23,6 @@ Calculator: https://github.com/Kim-Flores/Simple-Calculator
 
 Horoscope: https://github.com/Kim-Flores/Horoscope
 
+Slot Machine: https://github.com/Kim-Flores/slot-machine-2019-week05/tree/answer
+
+To-Do List: https://github.com/Kim-Flores/todo-list-2019-week05/tree/answer
