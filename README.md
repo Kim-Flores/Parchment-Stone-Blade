@@ -1,4 +1,4 @@
-# Parchment-Stone-Blade
+ # Parchment-Stone-Blade :crossed_swords:
 Medieval take on the classic Rock Paper Scissors
 
 Live Code: https://kimflores-parchment-stone-blade.netlify.app
